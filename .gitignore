@@ -1,3 +1,11 @@
+.DS_Store
+
+# Generated figures
+reproduce-figures/*.pdf
+
+# Big pickles
+data/results/finite_sampling_and_precision_aggregated_all.p
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
