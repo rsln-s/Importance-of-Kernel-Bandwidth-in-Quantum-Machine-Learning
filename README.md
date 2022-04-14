@@ -15,6 +15,6 @@ conda env create -f environment.yml
 
 ## Obtaining raw data
 
-Full raw data can be downloaded here (~23GB): https://web.cels.anl.gov/~rshaydulin/results.zip
+Full raw data can be downloaded here (~23GB): https://anl.box.com/s/v9hwxr0t9xlwgy9jfwzb0a0lhtysiogz
 
 To reproduce figures, you have to first download the data (`results.zip`) and unzip it into `data` folder. 
